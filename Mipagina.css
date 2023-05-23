@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    background-image: url(./imagenes/Space.png);
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #A53FF2;
+}
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #A53FF2;
+}
+h3{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    color: #A53FF2;
+}
+.C1{
+    background: linear-gradient(#36FFCB, #FFD236);
+    opacity: 0.5;
+}
+/*.C2{
+    background-image: url(./imagenes/Space.png);
+}*/
+img{
+    display: block;
+    margin: auto;
+}
+p{
+    font-size:  15pt;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    font-size: 28pt;
+    color: bisque;
+}
+li{
+    color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15pt;
+}
+h5{
+    text-align: center;
+    font-size: 28pt;
+    color: bisque;
+}
+table{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid bisque;
+    text-align: center;
+    background: linear-gradient(to right, purple, red);
+    opacity: 0.5;
+}
+tr, td{
+    padding: 20px;
+    border-collapse: collapse;
+    border: 3px solid bisque;
+    color: bisque;
+}
+.RECESO{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35pt;
+    color: white;
+}
+
